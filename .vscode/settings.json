@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.multiRootWorkspaceName": "D2",
+    "json.schemas": [
+        {
+            "fileMatch": ["tsconfig.json"],
+            "schema": {
+                "type": "object"
+            }
+        }
+    ]
+}

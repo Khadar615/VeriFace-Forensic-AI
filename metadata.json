@@ -1,0 +1,7 @@
+{
+  "name": "VeriFace Forensic AI",
+  "description": "Production-grade deepfake detection system with explainable AI (XAI) forensics, providing detailed artifact analysis and heatmap visualizations for images and videos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
